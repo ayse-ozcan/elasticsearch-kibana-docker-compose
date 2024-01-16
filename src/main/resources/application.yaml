@@ -1,0 +1,11 @@
+server:
+  port: 9090
+
+#If you do not specify this configuration,
+#Spring Boot automatically uses the default connection information and attempts to connect to Elasticsearch at
+#http://localhost:9200
+#spring:
+#  data:
+#    elasticsearch:
+#      uris: http://your-elasticsearch-server:9200
+
