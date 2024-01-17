@@ -4,6 +4,8 @@ Elasticsearch is a robust search and analytics engine with powerful capabilities
 
 Kibana, an open-source tool, complements Elasticsearch by offering a platform to visualize and comprehend data stored within Elasticsearch.
 
+👉 [For more information, you can check out my blog post.](https://ayseozcan.com/2024/01/17/elasticsearch-and-kibana-with-docker-compose-spring-boot-example/)
+
 ### Dependencies
 ```
 dependencies {  
