@@ -59,7 +59,8 @@ services:
           cpus: '1.0'  
   
 networks:  
-  elastic:
+  elastic:  
+    driver: bridge
 ```
 `container_name:` The name of the Elasticsearch and Kibana container.
 
